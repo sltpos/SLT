@@ -1,0 +1,29 @@
+[submodule "libraries/chainbase"]
+	path = libraries/chainbase
+	url = https://github.com/sltpos/chainbase
+        ignore = dirty
+[submodule "libraries/appbase"]
+	path = libraries/appbase
+	url = https://github.com/sltpos/appbase
+        ignore = dirty
+[submodule "programs/snapshot"]
+	path = programs/snapshot
+	url = https://github.com/sltpos/genesis.git
+[submodule "contracts/musl/upstream"]
+	path = contracts/musl/upstream
+	url = https://github.com/sltpos/musl.git
+	branch = sltpos
+[submodule "contracts/libc++/upstream"]
+	path = contracts/libc++/upstream
+	url = https://github.com/sltpos/libcxx.git
+	branch = sltpos
+[submodule "externals/binaryen"]
+	path = externals/binaryen
+	url = https://github.com/sltpos/binaryen
+
+[submodule "libraries/softfloat"]
+	path = libraries/softfloat
+	url = https://github.com/sltpos/berkeley-softfloat-3
+[submodule "externals/magic_get"]
+	path = externals/magic_get
+url = https://github.com/sltpos/magic_get
