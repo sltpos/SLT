@@ -12,6 +12,8 @@ The final aim of SLT is to be able to deliver on the promise of instant payments
 
  It is expected that users will even have the opportunity to make payments and withdraw money using the SLT Card, which will be integrated with major existing fiat providers to give maximum flexibility across crypto and fiat channels to SLT platform users. 
 
+SLT token is listed on following exchangers: Coindeal, Mercatox, Crex24
+
 Thank you for your support and happy earning to all!
 
 SLT Team
